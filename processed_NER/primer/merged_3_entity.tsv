@@ -1,0 +1,2 @@
+Sentence	entity_1	entity_2	entity_3	json	split
+Biotyping of LAB was carried out through Random Amplification of Polymorphic DNA ( RAPD) - PCR using primers P4, P7 ( De Angelis et al., 2001), and M13 ( Siragusa et al., 2009).	P4,109,111,primer	P7,113,115,primer	M13,148,151,primer	"[{""token"": ""P4"", ""start_span"": 109, ""end_span"": 111, ""type"": ""primer""}, {""token"": ""P7"", ""start_span"": 113, ""end_span"": 115, ""type"": ""primer""}, {""token"": ""M13"", ""start_span"": 148, ""end_span"": 151, ""type"": ""primer""}]"	train
